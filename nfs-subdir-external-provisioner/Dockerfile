@@ -1,2 +1,2 @@
-FROM gcr.io/k8s-staging-sig-storage/nfs-subdir-external-provisioner:latest
+FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner
 MAINTAINER xx <xx@xx.com>
